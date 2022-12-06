@@ -12,8 +12,9 @@
 ## Education
 
 * BNTU (manager-economist)
-* EPAM (50-hour course Software Testing Introduction)[Certificate](.../rsschool-cv/Software_testing.jpg)
+* EPAM (50-hour course Software Testing Introduction) [Certificate](https://user-images.githubusercontent.com/51132744/205856211-96093269-75ba-49f5-b9ab-82eb14052895.jpg)
 * IT-Academy (HTML, CSS)
+
 
 
 ## Knowledge of language
@@ -21,7 +22,8 @@
 English - A2
 
 * General English (Central Officer House) - Beginner, Elementary, Pre-Intermediate, Intermediate 
-* Practically Speaking Conversational English Course (ESL) [Certificate](.../rsschool-cv/English.jpg)
+* Practically Speaking Conversational English Course (ESL) [Certificate](https://user-images.githubusercontent.com/51132744/205856377-18bedb63-4158-4e0e-ae7b-6ed636fcdada.jpg)
+
 
 
 
