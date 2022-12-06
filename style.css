@@ -1,0 +1,10 @@
+@font-face {
+  font-family: RussoOne;
+  src: url(fonts/RussoOne-Regular.ttf);
+  font-family: HammersmithOne;
+  src: url(fonts/HammersmithOne-Regular.ttf);
+  font-family: Orbitron;
+  src: url(fonts/Orbitron-VariableFont_wght.ttf);
+  font-family: ArchivoBlack;
+  src: url(fonts/ArchivoBlack-Regular.ttf);
+}

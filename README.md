@@ -1,1 +1,3 @@
-https://yuliyakevra.github.io/rsschool-cv/cv
+rsschool-cv
+
+https://yuliyakevra.github.io.github.io/rsschool-cv/
