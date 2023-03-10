@@ -1,0 +1,237 @@
+@font-face {
+    font-family: RussoOne;
+    src: url(fonts/RussoOne-Regular.ttf);
+    font-family: HammersmithOne;
+    src: url(fonts/HammersmithOne-Regular.ttf);
+    font-family: Orbitron;
+    src: url(fonts/Orbitron-VariableFont_wght.ttf);
+    font-family: ArchivoBlack;
+    src: url(fonts/ArchivoBlack-Regular.ttf);
+  }
+  
+   @media (max-width: 900px){
+    #main {
+      height: 100%;
+      display: flex;
+          }}
+    
+  
+
+body {
+    max-width: 1200px;
+    min-width: 740px;
+    margin: 0 auto;
+    padding: 1rem;
+    background: silver;
+  }
+
+  #main {
+    display: flex;
+    border: solid 3px;
+    border-color:white;
+             }
+
+  #aside {
+    font-family: HammersmithOne;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start; 
+    width: 30%;
+    background: silver;
+    padding: 1rem;
+  }
+
+  
+#container2 {
+    display: flex;
+    background-color: white;
+      flex-direction: column;
+  justify-content: space-around;
+  width: 70%;
+  }
+
+  a {
+    color: black;
+    font-family: RussoOne;
+    font-size: 23px;
+  }
+  
+  li {
+    list-style-type: none;
+    font-size: 23px;
+    font-family: RussoOne;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    line-height: 40px;
+  }
+  ul {
+    margin-left: 0;
+    padding-left: 0;
+    font-size: 23px;
+    font-family: RussoOne;
+  }
+  h1 {
+    font-family: RussoOne;
+    font-size: 60px;
+    font-weight: 200;
+    color: white;
+  }
+  
+  h2 {
+    font-family: ArchivoBlack;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(37, 35, 35);
+  }
+  h3{
+    font-family: ArchivoBlack;
+    text-align: center;
+  }
+  
+  #photo {
+    
+    display: flex;
+    flex-basis: 20%;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 150px;
+    padding-bottom: 50px;
+  }
+  #photo_pic {
+    width: 100%;
+    height: 100%;
+  }
+
+  #photo-border{
+    display: flex;
+    overflow: hidden;
+    border-color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 60px;
+  }
+  
+  #contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  #skills {
+    display: flex;
+    align-items: center;
+  }
+  #skills_list {
+    margin-right: 40px;
+    
+  }
+
+  .section {
+    font-family: HammersmithOne;
+        font-size: 23px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  #footer {
+        background:  silver;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+        text-align: right;
+    font-size: 2rem;
+    align-items:flex-end;
+  }
+  
+  #header {
+        text-align: center;
+    background-color: silver;
+  }
+  
+  #content {
+    font-family: Arial;
+    font-size: 23 px;
+    margin: 0 auto;
+    width: 650px;
+  }
+  
+  p,
+  br {
+    font-family: RussoOne;
+    font-size: 23px;
+  }
+  #icon {
+    width: 1px;
+    float: left;
+    margin: 7px 7px 7px 0;
+      }
+
+  .dot {
+    margin-bottom: 16px;
+    height: 23px;
+    width: 23px;
+    background-color: rgb(15, 14, 14);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #level {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .dotepmty {
+    margin-bottom: 16px;
+    height: 18px;
+    width: 18px;
+    background-color: rgb(209, 201, 201);
+    border-radius: 50%;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+  }
+
+  .logo{
+    width: 100%;
+  max-width: 80px;
+  max-height: 38.7px;
+  vertical-align: middle;
+  height: 100%;
+  }
+
+  .lev_dot {
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+  .footer_nav {
+    display: flex;
+    font-size: 20px;
+     align-content: space-around;
+ margin-right: 80px;
+ margin-left: 80px;
+    
+  }
+
+  .icon{
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 18px;
+  }
+
+  .education{
+    display: flex;
+    margin: 10px; 0 10px; 0;
+  }
+
+.Knowledge{
+  display: flex;
+  margin: 10px; 0 10px; 0;
+}
+
+.information{
+  display: flex;
+  flex-direction: column;
+  margin: 10px; 0 10px; 0;
+}
