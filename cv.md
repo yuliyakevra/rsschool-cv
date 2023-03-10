@@ -1,5 +1,6 @@
 ### Kevra Yuliya
-![Photo](../../../../../../../c:/Users/Ultrabook/Desktop/JavaScript/Git%20CV/rsschool-cv/photo.jpg)
+![photo](https://user-images.githubusercontent.com/51132744/224326447-6430ed55-9422-4fd5-8eeb-2ad73aafb985.jpg)
+
 
 ## Contact information
 
@@ -11,7 +12,8 @@
 ## Education
 
 * BNTU (manager-economist)
-* EPAM (50-hour course Software Testing Introduction)[Certificate](../../../../../../../c:/Users/Ultrabook/Desktop/JavaScript/Git%20CV/rsschool-cv/Software_testing.jpg)
+* EPAM (50-hour course Software Testing Introduction)![Certificate](https://user-images.githubusercontent.com/51132744/224326478-7695e3f7-5fbc-40a9-854a-ad7769246410.jpg)
+
 * IT-Academy (HTML, CSS)
 
 
@@ -20,8 +22,7 @@
 English - A2
 
 * General English (Central Officer House) - Beginner, Elementary, Pre-Intermediate, Intermediate 
-* Practically Speaking Conversational English Course (ESL) [Certificate](../../../../../../../c:/Users/Ultrabook/Desktop/JavaScript/Git%20CV/rsschool-cv/English.jpg)
-
+* Practically Speaking Conversational English Course (ESL) ![Certificate](https://user-images.githubusercontent.com/51132744/224326546-f2039c51-171b-4432-bb13-4fe1eaf56aa5.jpg)
 
 
 ## Technical Skills
