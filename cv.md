@@ -1,5 +1,5 @@
 ### Kevra Yuliya
-![Photo](../../../../../../../C:\Users\User\Desktop\Rs-2024q2\week 1\rsschool-cv/photo.jpg)
+![Photo](photo.jpg)
 
 ## Contact information
 
@@ -11,7 +11,7 @@
 ## Education
 
 * BNTU (manager-economist)
-* EPAM (50-hour course Software Testing Introduction)[Certificate](../../../../../../../C:\Users\User\Desktop\Rs-2024q2\week 1\rsschool-cv/Software_testing.jpg)
+* EPAM (50-hour course Software Testing Introduction)[Certificate](Software_testing.jpg)
 * IT-Academy (HTML, CSS)
 
 
@@ -20,7 +20,7 @@
 English - A2
 
 * General English (Central Officer House) - Beginner, Elementary, Pre-Intermediate, Intermediate 
-* Practically Speaking Conversational English Course (ESL) [Certificate](../../../../../../../C:\Users\User\Desktop\Rs-2024q2\week 1\rsschool-cv/English.jpg)
+* Practically Speaking Conversational English Course (ESL) [Certificate](English.jpg)
 
 
 
